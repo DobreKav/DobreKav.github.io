@@ -122,3 +122,4 @@ voisetech.com, 1066, RESELLER
 xandr.com, 17779, RESELLER
 zetaglobal.net, 525, RESELLER
 zmaticoo.com, 5135195, RESELLER
+odeeo.io, 118848844, RESELLER, 36cfd73091d5c3fc
